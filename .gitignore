@@ -1,0 +1,25 @@
+#.obsidian/workspace.json
+#.DS_Store
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Obsidian workspace files (Prevents noisy commits from simply opening/closing tabs)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/workspace-mobile
+
+# Obsidian cache
+.obsidian/cache/
+.obsidian/core-plugins-migration.json
+
+# Optional: Ignore all third-party plugin data (uncomment if you don't want to sync plugin settings)
+# .obsidian/plugins/*/data.json
